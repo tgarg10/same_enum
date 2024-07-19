@@ -3,7 +3,7 @@ name = "same_enum"
 version = "0.1.0"
 edition = "2021"
 description = "Generates `From` trait implementations for enums with the same unit variants."
-license = ""
+license = "MIT"
 
 [dependencies]
 syn = "1.0"
